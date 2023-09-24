@@ -417,7 +417,7 @@ h6 {
   height: 100vh;
   background: linear-gradient(rgba(55, 142, 181, 0.5), rgba(55, 142, 181, 0.2)), url("../img/hero-bg.jpg") top center;
   background-size: cover;
-  background-color: lightgray;
+  background-color: rgb(200, 200, 210);
   background-blend-mode: multiply;
   position: relative;
   margin-bottom: -90px;
